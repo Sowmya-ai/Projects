@@ -1,4 +1,10 @@
-# CNN for Scene Recognition
+# Scene Recognition Using CNN Built From Scratch
+
+## Overview
+
+- In this project, we introduce an innovative method for scene recognition involving a custom-built CNN trained on a dataset containing images belonging to three distinct classes: buildings, forests, and mountains. 
+- Our CNN comprises convolutional, max-pooling, and two fully connected layers. 
+- Our method employs intricate convolutions for RGB image classification, and we utilize the stochastic gradient descent (SGD) optimization technique with mini batches.
 
 ## How to run
 
