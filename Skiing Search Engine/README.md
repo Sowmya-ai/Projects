@@ -1,10 +1,14 @@
-# Ski Search Engine
+# Skiing Search Engine
 
-Welcome to the Ski Search Engine repository!
+Welcome to the Skiing Search Engine repository!
 
 ## Overview
 
-This project aims to provide a basic search engine functionality for finding skiing-related information.
+-In this project we've built a search engine from scratch for Skiing with over 100,000 crawled web pages which were then indexed. 
+-We then ran 3 different relevance models namely Vector Space Relevance Model, PageRank and HITS. 
+-This was followed by QE and Clustering steps. 
+-In Clustering we implemented both Hierarchical and Flat Clustering. 
+-Query Expansion based on Association, Metric and Scalar clusters were implemented
 
 ## Technologies used
 
