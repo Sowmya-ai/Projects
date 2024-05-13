@@ -22,3 +22,8 @@
 - Install packages - numpy, requests, torchvision, Pillow, tensorflow, matplotlib, sklearn, math
 - Open the submitted Scene_Recognition_CNN.ipynb notebook in the IDE, and run the cells sequentially, or click 'Run All'
 - (Note) : It takes about 15 min to load the images, and around 1 hour 15 min to build the model.
+
+## Files
+- Code- Scene_Recognition_CNN.ipynb
+- Experimental Results- experimentlogs.pdf
+- Paper- SceneRecognitionWithCNN.pdf
